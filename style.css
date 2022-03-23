@@ -35,6 +35,7 @@ article{
     text-shadow: 1px 1px 1px #565254;
     word-wrap: break-word;
     color: white;
+    background-color: cadetblue;
 }
 li{
     padding-top:15px;
@@ -51,4 +52,9 @@ footer{
 }
 address{
     padding-bottom: 15px;
+}
+.rounded-circle{
+    width: 200px;
+    height: auto;
+    margin-top: 40px;
 }
